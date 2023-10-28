@@ -14,9 +14,9 @@ Assigment 2:
 - Regular expressions
 
   Assigment 3:
-  - Tokenizing data
-  - Bigram counts
-  - Smoothing
-  - Sentence log-probability
-  - Tuning Alpha
-  - Applying Language Models
+- Tokenizing data
+- Bigram counts
+- Smoothing
+- Sentence log-probability
+- Tuning Alpha
+- Applying Language Models
