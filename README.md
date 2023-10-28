@@ -13,7 +13,7 @@ Assigment 2:
 - Key Indicators
 - Regular expressions
 
-  Assigment 3:
+Assigment 3:
 - Tokenizing data
 - Bigram counts
 - Smoothing
